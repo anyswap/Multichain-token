@@ -1,0 +1,16 @@
+{
+  "name": "MultichainToken",
+  "version": "1.0.0",
+  "description": "Multichain token",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyswap/Multichain-token.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.8.0"
+  }
+}
